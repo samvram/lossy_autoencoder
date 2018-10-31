@@ -29,6 +29,10 @@ Referrence from : https://www.bonaccorso.eu/2017/07/29/lossy-image-autoencoders-
 </table>
 
 ## Results with L1 and L2 regularizer
+
+The implementation for the case of L1 regularizer can be found [here](https://github.com/samvram/lossy_autoencoder/blob/master/Lossy%20Image%20Autoencoder%20-%20with%20L1%20regularizer.ipynb).
+The implementation for the case of L2 regularizer can be found [here](https://github.com/samvram/lossy_autoencoder/blob/master/Lossy%20Image%20Autoencoder%20-%20with%20L2%20regularizer.ipynb).
+
 On running the process when using L1 regularizer we see the results to be:-
 
 ![L1 regularized](Lossy_L1.png)
